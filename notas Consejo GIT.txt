@@ -1,13 +1,8 @@
 status: Estado/cambios
 diff:   cambios (detalles)
 commit: crea un commit
-<<<<<<< Updated upstream
-add:    agregar un archivo
-=======
 add:    agregar un archivo
 $git commit -m "mensaje"
 log:    muestra la historia
 push:   manda cambios
 pull:   obtiene cambios
-lol
->>>>>>> Stashed changes
