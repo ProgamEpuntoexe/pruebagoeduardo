@@ -1,0 +1,4 @@
+status: Estado/cambios
+diff:   cambios (detalles)
+commit: crea un commit
+add:    agregar un archivo
