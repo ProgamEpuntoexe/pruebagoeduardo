@@ -6,4 +6,4 @@ $git commit -m "mensaje"
 log:    muestra la historia
 push:   manda cambios
 pull:   obtiene cambios
-lol a
+lol ab
